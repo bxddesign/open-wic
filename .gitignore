@@ -1,0 +1,17 @@
+# Node
+node_modules/
+dist/
+dist-electron/
+release/
+.vite/
+
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
+
+# Env
+.env
